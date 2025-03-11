@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\bin\Debug\net8.0\Get Number.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\bin\Debug\net8.0\Get Number.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\bin\Debug\net8.0\Get Number.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\bin\Debug\net8.0\Get Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\bin\Debug\net8.0\Get Number.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\refint\Get Number.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\Get Number.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Get Number\Get Number\obj\Debug\net8.0\ref\Get Number.dll
